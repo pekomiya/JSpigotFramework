@@ -1,2 +1,2 @@
 # JSpigotFramework
-JavaScript for SpigoPlugin Framework
+JavaScript for SpigotPlugin Framework
